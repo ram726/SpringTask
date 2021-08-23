@@ -1,0 +1,4 @@
+org\mvc\user\model\User.class
+org\mvc\user\config\DispatcherServletInit.class
+org\mvc\user\controller\UserController.class
+org\mvc\user\config\WebApplicationContextConfig.class
